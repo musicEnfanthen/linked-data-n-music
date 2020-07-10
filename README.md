@@ -5,7 +5,7 @@ Some Jupyter notebooks (http://jupyter.org/) to explore music related datasets. 
 ## Usage
 
 ### Run notebook online (interactive)
-To run this notebook online, click on the following Binder badge: 
+To run this repo online, click on the following Binder badge: 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/musicEnfanthen/linked-data-n-music/master)
 
@@ -17,7 +17,7 @@ https://colab.research.google.com
 
 ### Run notebook locally
 
-To run this notebook on your local machine, make sure you have installed the following:
+To run this repo on your local machine, make sure you have installed the following:
 
 1. Python (Version 3.6): https://www.python.org/downloads/
     follow the instructions of the installer
