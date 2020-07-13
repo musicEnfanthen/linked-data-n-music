@@ -43,6 +43,17 @@ jupyter notebook
 
 The server should be running now and the jupyter dashboard should open in your browser.
 
+### Credits
+
+The approach to use SPARQL in a Jupyter notebook is based on & inspired by [@Bob DuCharme](https://github.com/bobdc-ccri)'s blog entry: 
+- http://www.bobdc.com/blog/jupytersparql/ 
+
+and the corresponding notebook 
+
+- https://github.com/bobdc/misc/blob/master/JupyterSPARQL/Jupyter%20and%20SPARQL%20and%20Dort%20or%20Dordrecht.ipynb.
+
+It uses the `sparqlkernel` written and released by Paulo Villegas: https://github.com/paulovn/sparql-kernel.
+
 ### License
 The notebooks in this repo are licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
 
