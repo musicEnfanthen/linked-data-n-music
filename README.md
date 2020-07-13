@@ -45,7 +45,7 @@ The server should be running now and the jupyter dashboard should open in your b
 
 ### Credits
 
-The approach to use SPARQL in a Jupyter notebook is based on & inspired by [@Bob DuCharme](https://github.com/bobdc-ccri)'s blog entry: 
+The approach to use SPARQL in a Jupyter notebook is based on & inspired by [@Bob DuCharme](https://github.com/bobdc)'s blog entry: 
 - http://www.bobdc.com/blog/jupytersparql/ 
 
 and the corresponding notebook 
