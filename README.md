@@ -9,7 +9,7 @@ Some Jupyter notebooks (http://jupyter.org/) to explore music related datasets. 
 ### Run notebook online (interactive)
 To run this repo online, click on the following Binder badge: 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/musicEnfanthen/linked-data-n-music/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/musicEnfanthen/linked-data-n-music/HEAD)
 
 Binder (https://mybinder.org/) provides a framework to run Jupyter notebooks online without the need to install the whole Jupyter Notebook environment (especially useful for classes, e-learning etc).
 
